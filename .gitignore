@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+test-pro/node_modules/
+test-pro/npm-debug.log
+test-pro/dist
+npm-debug.log
+dist
